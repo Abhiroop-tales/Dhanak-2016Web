@@ -1,0 +1,140 @@
+main.fullwrap{
+  min-height: 100%;
+  height:auto;
+}
+main>div.bcg{
+  background-image: url("../img/pronite/pronitebg.jpg");
+  background-size: cover;
+  /*overflow-y: scroll;*/
+}
+div.content{
+  margin-top: 2%;
+  text-align: center;
+  color:white;
+  font-family: "Bacon",sans-serif;
+}
+.content img#sunburnlogo{
+  width:50%;
+  heigh:auto;
+  margin-bottom:1.5%;
+}
+.content img#probrologo{
+  width:90%;
+  height:auto;
+}
+.content h1{
+  font-family: "League Spartan",sans-serif;
+}
+.content h2:nth-of-type(2),.content h4{
+  color:orange;
+}
+.content button{
+  width:50%;
+  text-align:center;
+  font-size: 1.5rem;
+  font-family: "Bacon",sans-serif;
+  font-weight: lighter;
+
+  background:orange;
+  color:white;
+  padding:10px;
+
+  border-radius:3px;
+  border:0;
+  outline:none;
+
+  transition:0.3s all ease;
+}
+.content button:hover{
+  color:white;
+  -webkit-transform:scale(1.05);
+  transform:scale(1.05);
+  /*box-shadow: 0 0 1.5px 3px aliceblue;*/
+  transition:0.3s all ease;
+}
+.content button:active{
+  -webkit-transform:scale(0.9);
+  transform:scale(0.9);
+}
+div.punchline p{
+  color:white;
+  background: rgba(0,0,0,0.65);
+  padding:3%;
+  font-family: "Bacon",sans-serif;
+  font-style: italic;
+  visibility: hidden;
+}
+@media screen and (min-width:768px){
+  main.fullwrap{
+    height:100%;
+  }
+  div.punchline {
+    position: fixed;
+    right:1%;
+    bottom:1%;
+    width:30%;
+  }
+  div.punchline p{
+    visibility: visible;
+  }
+}
+
+/*=================================================================================================================
+
+Dhanak Nav Page Specific Styles
+
+==================================================================================================================*/
+.dhanaknavclass{
+  position:fixed;
+  z-index:4;
+  width: 100%;
+  width: 100%;
+  top:0;
+  /*left:70px;*/
+
+  color:white;
+  /*background: white;*/
+}
+@media screen and (min-width:768px) {
+  .dhanaknavclass{
+    border-bottom:3px solid white;
+  }
+}
+div.dhanaknavclass nav.navbar{
+  background: rgba(0,0,0,0.65);
+  /*opacity:0.1;*/
+  color:white;
+}
+#myNavbar ul.navlist li{
+  /*opacity:1;*/
+}
+span.navtags {
+  display:none;
+}
+@media screen and (min-width:767px){
+    nav>div.container-fluid{
+      padding:0;
+    }
+    li.navlist{
+      text-align: center;
+      padding:0;
+      margin:0;
+      padding-top:10px;
+      padding-bottom:10px;
+    }
+    nav .glyphicon{
+      padding: 10px;
+      transform:scale(1.5);
+    }
+}
+@media screen and (max-width:768px){
+  div.dhanaknavclass nav.navbar{
+    background: transparent;
+  }
+  nav.navbar div.collapse.navbar-collapse{
+    z-index:20000;
+    background: rgba(0,0,0,0.9);
+    color:white;
+  }
+}
+/*=================================================================================================*/

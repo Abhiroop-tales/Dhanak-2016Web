@@ -1,0 +1,29 @@
+#ignore all .zip files
+*.zip
+
+#ignore files with ~ end
+*~
+#ignore all configdb files
+config*.php
+webbed/config*.php
+
+AcrossVersions.txt
+
+#jquery-1.12.2.min.js
+
+events.old/
+
+aboutbgb.jpg
+brahmosExhibition.jpg
+filler3.jpg
+street_play.jpg
+
+team-pic.old.jpg
+
+Teampage/
+items.old/
+favicons.7z
+
+webbed.old
+workshops.old
+exhibitions.old

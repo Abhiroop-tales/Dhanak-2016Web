@@ -1,0 +1,14 @@
+#Edits to update in server
+
+Sept 28 2016
+- To update the events on server after verifying with Abhiroop - done
+- change title for campus ambassador - done
+- added no-js div to all files. and transferred no-js css from main.css to common.css .. all css files can be replaced.
+- to change the side-nav order in events - quiz after online - done
+- update favicons and metatags file
+- update sponsors with Afzal, online ticketing partner and online publicity partner - no css change, just from html and image names-done
+- remove ths display:none and show() for contact section - done
+
+Oct 7,2016
+- update new favicon
+- 

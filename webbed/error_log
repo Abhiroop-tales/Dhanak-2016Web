@@ -1,0 +1,265 @@
+[12-Oct-2016 05:20:20 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dhana15i/public_html/webbed/configdb_webbed.php on line 2
+[12-Oct-2016 05:20:27 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dhana15i/public_html/webbed/configdb_webbed.php on line 2
+[12-Oct-2016 05:26:58 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[12-Oct-2016 05:26:58 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[12-Oct-2016 05:28:51 Etc/GMT] PHP Notice:  Undefined variable: college in /home/dhana15i/public_html/webbed/index.php on line 99
+[12-Oct-2016 05:28:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/index.php on line 129
+[12-Oct-2016 05:28:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/index.php on line 129
+[12-Oct-2016 05:39:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[12-Oct-2016 05:39:18 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[12-Oct-2016 05:40:09 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/index.php on line 130
+[12-Oct-2016 05:40:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/index.php on line 130
+[12-Oct-2016 05:54:24 Etc/GMT] PHP Notice:  Undefined index: q_no_display in /home/dhana15i/public_html/webbed/index.php on line 123
+[12-Oct-2016 11:51:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '!' in /home/dhana15i/public_html/webbed/check_ans.php on line 680
+[12-Oct-2016 14:14:53 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/check_ans.php on line 35
+[12-Oct-2016 14:15:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/check_ans.php on line 35
+[12-Oct-2016 14:19:05 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dhana15i/public_html/webbed/check_ans.php on line 35
+[12-Oct-2016 18:58:24 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/dhana15i/public_html/webbed/ban.php on line 2
+[13-Oct-2016 03:32:26 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:26 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:26 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:26 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:37 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:37 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:32:37 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:09 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:09 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:09 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:09 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:41 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:41 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:41 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:36:41 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:37:58 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:37:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:37:58 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:37:58 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:38:01 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:38:01 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:38:01 Etc/GMT] PHP Notice:  Undefined variable: mysqli in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 03:38:01 Etc/GMT] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/dhana15i/public_html/webbed/check_ans.php on line 716
+[13-Oct-2016 05:35:57 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 05:36:06 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 13:22:18 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:35:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:35:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:35:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:35:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:35:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:35:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:36:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:36:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:36:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:36:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:46 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 17:59:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 18:03:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 18:03:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 18:03:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 18:03:09 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 18:03:09 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 18:03:09 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 19:42:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:42:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:42:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:42:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:46:45 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:51:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:51:16 Etc/GMT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[13-Oct-2016 19:52:00 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 19:52:00 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[13-Oct-2016 19:52:00 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 03:16:57 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dhana15i/public_html/webbed/index.php on line 325
+[14-Oct-2016 03:17:02 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/dhana15i/public_html/webbed/index.php on line 325
+[14-Oct-2016 03:20:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 03:20:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 03:20:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 07:12:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 07:12:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 07:12:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 07:57:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dhana15i/public_html/webbed/index.php on line 93
+[14-Oct-2016 08:19:56 Etc/GMT] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 08:20:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ',' or ')' in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 08:21:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 08:42:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dhana15i/public_html/webbed/index.php on line 175
+[14-Oct-2016 08:43:42 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dhana15i/public_html/webbed/index.php on line 176
+[14-Oct-2016 08:45:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/dhana15i/public_html/webbed/index.php on line 175
+[14-Oct-2016 10:07:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 10:58:52 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 10:58:53 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 10:59:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 10:59:23 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:04:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:04:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:04:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:08:34 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:21:58 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:29:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:30:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:30:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:39:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:55:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:07 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:29 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:55:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:55:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:55:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 11:55:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 11:55:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 11:55:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 11:55:47 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:58:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:33 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 11:58:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:39 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 11:58:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 12:00:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:00:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:00:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:00:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:00:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 12:00:05 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 12:15:48 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:15:48 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:15:48 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:15:48 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:15:49 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 12:15:49 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 12:15:49 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/index.php on line 4
+[14-Oct-2016 12:34:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:34:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:34:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:34:17 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 12:34:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 12:34:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 12:34:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 12:34:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:16:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:16:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:16:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:16:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:16:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:16:50 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 13:42:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:42:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:42:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:42:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:42:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:42:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 13:57:58 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dhana15i/public_html/webbed/index.php on line 118
+[14-Oct-2016 15:47:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 15:47:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 15:47:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 15:47:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 15:47:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 15:47:40 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:05:27 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 17:11:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:13 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 17:11:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:45:51 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/web_ban.php on line 5
+[14-Oct-2016 22:47:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:14 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[14-Oct-2016 22:47:15 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 15:15:41 Etc/GMT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/dhana15i/public_html/webbed/index.php on line 118
+[15-Oct-2016 19:28:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 19:28:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 19:28:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 19:28:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 19:28:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 19:28:30 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 23:32:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 23:32:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 23:32:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 23:32:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 23:32:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[15-Oct-2016 23:32:02 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 08:02:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 08:02:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 08:02:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 08:02:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 08:02:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 08:02:35 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 10:31:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 10:31:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 10:31:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 10:31:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 10:31:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 10:31:11 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[16-Oct-2016 12:26:26 Etc/GMT] PHP Parse error:  syntax error, unexpected 'Won' (T_STRING) in /home/dhana15i/public_html/webbed/index.php on line 147
+[17-Oct-2016 14:09:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[17-Oct-2016 14:09:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[17-Oct-2016 14:09:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[17-Oct-2016 14:09:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[17-Oct-2016 14:09:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5
+[17-Oct-2016 14:09:38 Etc/GMT] PHP Notice:  Undefined index: username in /home/dhana15i/public_html/webbed/anslog.php on line 5

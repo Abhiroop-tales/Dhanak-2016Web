@@ -1,0 +1,41 @@
+2. Background image for first page - perhaps old dhanak-done
+3. About Us content-done
+4. Other old dhanak images for transition(6) + quotes or  testimonials
+5. Some subtitle like text for Events, Workshops and Initiatives, ProNite
+6. Group Image of all coordinators
+7. Font styles for text
+8. Sponsors
+
+## Sept 20, 2016
+1. Integrate Google map -> DONE
+2. Contact Us part -> DONE
+2.5 Get Events data and integrate to give the backend to Abhiroop -> DONE
+3. About Us with disco ball and the circle design + Timer/Background radial design - how to  write curved text -> DONE
+4. Checkout section - check linear gradient to make the camera film effect - check radial gradient to make the 'negative' like effect -> DONE
+5. IIST Logo on Cover -> done
+6. Sponsors -> done
+7. Team Page -> done
+
+
+##Sept 23,2016
+1. Caching -> done
+2. LazyrLoad -> done using some other plugin
+3. Picturefill.js -> not convenient
+4. tooltip styling -> not working
+
+##Sept 28, 2016
+- what to do with login in other pages? - done... sessions already being used.
+- update server with the edits - see if team page working fine or nicescroll - team page working fine
+- pronite page - done
+- check the workshops/exhibitions template sent by Shiny - checked and enhanced - to complete
+- asynchrous or delayed loading of google maps and fb page plugin
+- lazy loading events page
+- 404 and 403 page
+- initiatives page
+- Check if caching is working fine - works fine
+- check if meta tags are working fine -  works fine
+- try the springy pre-loader - thinking of PACE.js now
+- check how to integrate the doodle video best into the website
+
+##Oct 8,2016
+-  how the hell do I use min-height???
